@@ -11,4 +11,4 @@ Un total de 15 exercices à faire dans des fichiers séparés. Les énoncés son
 * Maîtriser les principes des algorithmes : variable, chaînes de caractères, conditions, boucles, tableaux, programmation orientée objet.
 * Exploiter des ressources en lignes.
 
-<a href="PHP.net">PHP.net<a> | <a href="Developpez.com">Developpez.com<a> | <a href="W3schools.com">W3schools.com<a>
+<a href="https://www.php.net/">PHP.net<a> | <a href="https://www.developpez.com/">Developpez.com<a> | <a href="https://www.w3schools.com/">W3schools.com<a>
